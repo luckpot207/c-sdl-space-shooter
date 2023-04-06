@@ -1,0 +1,8 @@
+﻿  Game.cpp
+E:\SpaceShooterWizard\src\Game.cpp(251,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\SpaceShooterWizard\src\Game.cpp(275,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\SpaceShooterWizard\src\Game.cpp(302,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\SpaceShooterWizard\src\Game.cpp(346,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Player.cpp
+  Generating Code...
+  SpaceShooterWizard.vcxproj -> E:\SpaceShooterWizard\x64\Debug\SpaceShooterWizard.exe
